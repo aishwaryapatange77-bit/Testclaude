@@ -1,0 +1,367 @@
+[
+ {
+  "caption": "NEXT up: CHING'S Schezwan instant noodles",
+  "words": [
+   {
+    "w": "NEXT",
+    "out_time": 0.3,
+    "src_time": 0.27
+   },
+   {
+    "w": "up:",
+    "out_time": 0.5,
+    "src_time": 0.5
+   },
+   {
+    "w": "CHING'S",
+    "out_time": 0.733,
+    "src_time": 0.73
+   },
+   {
+    "w": "Schezwan",
+    "out_time": 1.0,
+    "src_time": 0.97
+   },
+   {
+    "w": "instant",
+    "out_time": 2.1,
+    "src_time": 2.1
+   },
+   {
+    "w": "noodles",
+    "out_time": 2.9,
+    "src_time": 2.87
+   }
+  ]
+ },
+ {
+  "caption": "I don't like SPICY food",
+  "words": [
+   {
+    "w": "I",
+    "out_time": 10.767,
+    "src_time": 13.04
+   },
+   {
+    "w": "don't",
+    "out_time": 10.9,
+    "src_time": 13.17
+   },
+   {
+    "w": "like",
+    "out_time": 11.133,
+    "src_time": 13.42
+   },
+   {
+    "w": "SPICY",
+    "out_time": 11.5,
+    "src_time": 13.79
+   },
+   {
+    "w": "food",
+    "out_time": 11.867,
+    "src_time": 14.15
+   }
+  ]
+ },
+ {
+  "caption": "I'd rather eat something else",
+  "words": [
+   {
+    "w": "I'd",
+    "out_time": 12.233,
+    "src_time": 14.82
+   },
+   {
+    "w": "rather",
+    "out_time": 12.267,
+    "src_time": 14.88
+   },
+   {
+    "w": "eat",
+    "out_time": 12.467,
+    "src_time": 15.05
+   },
+   {
+    "w": "something",
+    "out_time": 12.5,
+    "src_time": 15.11
+   },
+   {
+    "w": "else",
+    "out_time": 12.767,
+    "src_time": 15.38
+   }
+  ]
+ },
+ {
+  "caption": "No maida, not fried... let's try it!",
+  "words": [
+   {
+    "w": "No",
+    "out_time": 19.067,
+    "src_time": 22.95
+   },
+   {
+    "w": "maida,",
+    "out_time": 19.3,
+    "src_time": 23.16
+   },
+   {
+    "w": "not",
+    "out_time": 19.767,
+    "src_time": 23.62
+   },
+   {
+    "w": "fried...",
+    "out_time": 19.967,
+    "src_time": 23.83
+   },
+   {
+    "w": "let's",
+    "out_time": 20.267,
+    "src_time": 24.12
+   },
+   {
+    "w": "try",
+    "out_time": 20.667,
+    "src_time": 24.52
+   },
+   {
+    "w": "it!",
+    "out_time": 21.2,
+    "src_time": 25.05
+   }
+  ]
+ },
+ {
+  "caption": "You can have it as a HEALTH option",
+  "words": [
+   {
+    "w": "You",
+    "out_time": 24.733,
+    "src_time": 29.83
+   },
+   {
+    "w": "can",
+    "out_time": 24.9,
+    "src_time": 30.01
+   },
+   {
+    "w": "have",
+    "out_time": 25.067,
+    "src_time": 30.16
+   },
+   {
+    "w": "it",
+    "out_time": 25.533,
+    "src_time": 30.64
+   },
+   {
+    "w": "as",
+    "out_time": 25.867,
+    "src_time": 30.95
+   },
+   {
+    "w": "a",
+    "out_time": 26.0,
+    "src_time": 31.1
+   },
+   {
+    "w": "HEALTH",
+    "out_time": 26.233,
+    "src_time": 31.33
+   },
+   {
+    "w": "option",
+    "out_time": 26.433,
+    "src_time": 31.52
+   }
+  ]
+ },
+ {
+  "caption": "but NOT Maggi-type noodles",
+  "words": [
+   {
+    "w": "but",
+    "out_time": 26.967,
+    "src_time": 32.8
+   },
+   {
+    "w": "NOT",
+    "out_time": 27.1,
+    "src_time": 32.96
+   },
+   {
+    "w": "Maggi-type",
+    "out_time": 27.3,
+    "src_time": 33.13
+   },
+   {
+    "w": "noodles",
+    "out_time": 28.2,
+    "src_time": 34.01
+   }
+  ]
+ },
+ {
+  "caption": "So let's see...",
+  "words": [
+   {
+    "w": "So",
+    "out_time": 35.467,
+    "src_time": 41.61
+   },
+   {
+    "w": "let's",
+    "out_time": 35.6,
+    "src_time": 41.73
+   },
+   {
+    "w": "see...",
+    "out_time": 35.933,
+    "src_time": 42.07
+   }
+  ]
+ },
+ {
+  "caption": "MAGGI is MAGGI",
+  "words": [
+   {
+    "w": "MAGGI",
+    "out_time": 44.833,
+    "src_time": 53.0
+   },
+   {
+    "w": "is",
+    "out_time": 45.167,
+    "src_time": 53.34
+   },
+   {
+    "w": "MAGGI",
+    "out_time": 45.367,
+    "src_time": 53.53
+   }
+  ]
+ },
+ {
+  "caption": "Only MAGGI wins this competition",
+  "words": [
+   {
+    "w": "Only",
+    "out_time": 47.967,
+    "src_time": 57.05
+   },
+   {
+    "w": "MAGGI",
+    "out_time": 48.333,
+    "src_time": 57.4
+   },
+   {
+    "w": "wins",
+    "out_time": 48.9,
+    "src_time": 57.97
+   },
+   {
+    "w": "this",
+    "out_time": 49.367,
+    "src_time": 58.45
+   },
+   {
+    "w": "competition",
+    "out_time": 49.6,
+    "src_time": 58.69
+   }
+  ]
+ },
+ {
+  "caption": "I liked the RAMEN too...",
+  "words": [
+   {
+    "w": "I",
+    "out_time": 53.5,
+    "src_time": 63.56
+   },
+   {
+    "w": "liked",
+    "out_time": 53.667,
+    "src_time": 63.74
+   },
+   {
+    "w": "the",
+    "out_time": 54.2,
+    "src_time": 64.27
+   },
+   {
+    "w": "RAMEN",
+    "out_time": 54.4,
+    "src_time": 64.46
+   },
+   {
+    "w": "too...",
+    "out_time": 55.133,
+    "src_time": 65.19
+   }
+  ]
+ },
+ {
+  "caption": "but NO comparison with MAGGI",
+  "words": [
+   {
+    "w": "but",
+    "out_time": 55.567,
+    "src_time": 66.16
+   },
+   {
+    "w": "NO",
+    "out_time": 55.733,
+    "src_time": 66.32
+   },
+   {
+    "w": "comparison",
+    "out_time": 55.9,
+    "src_time": 66.48
+   },
+   {
+    "w": "with",
+    "out_time": 57.067,
+    "src_time": 67.66
+   },
+   {
+    "w": "MAGGI",
+    "out_time": 57.267,
+    "src_time": 67.85
+   }
+  ]
+ },
+ {
+  "caption": "Our WINNER is only MAGGI",
+  "words": [
+   {
+    "w": "Our",
+    "out_time": 59.933,
+    "src_time": 70.5
+   },
+   {
+    "w": "WINNER",
+    "out_time": 60.033,
+    "src_time": 70.61
+   },
+   {
+    "w": "is",
+    "out_time": 60.267,
+    "src_time": 70.85
+   },
+   {
+    "w": "only",
+    "out_time": 60.4,
+    "src_time": 70.97
+   },
+   {
+    "w": "MAGGI",
+    "out_time": 60.867,
+    "src_time": 71.45
+   }
+  ]
+ }
+]
